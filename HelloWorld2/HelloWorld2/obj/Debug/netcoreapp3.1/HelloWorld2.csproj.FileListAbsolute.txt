@@ -1,0 +1,13 @@
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\LIDL\HelloWorld2\HelloWorld2\bin\Debug\netcoreapp3.1\HelloWorld2.exe
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\LIDL\HelloWorld2\HelloWorld2\bin\Debug\netcoreapp3.1\HelloWorld2.deps.json
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\LIDL\HelloWorld2\HelloWorld2\bin\Debug\netcoreapp3.1\HelloWorld2.runtimeconfig.json
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\LIDL\HelloWorld2\HelloWorld2\bin\Debug\netcoreapp3.1\HelloWorld2.runtimeconfig.dev.json
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\LIDL\HelloWorld2\HelloWorld2\bin\Debug\netcoreapp3.1\HelloWorld2.dll
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\LIDL\HelloWorld2\HelloWorld2\bin\Debug\netcoreapp3.1\HelloWorld2.pdb
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\LIDL\HelloWorld2\HelloWorld2\obj\Debug\netcoreapp3.1\HelloWorld2.csprojAssemblyReference.cache
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\LIDL\HelloWorld2\HelloWorld2\obj\Debug\netcoreapp3.1\HelloWorld2.AssemblyInfoInputs.cache
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\LIDL\HelloWorld2\HelloWorld2\obj\Debug\netcoreapp3.1\HelloWorld2.AssemblyInfo.cs
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\LIDL\HelloWorld2\HelloWorld2\obj\Debug\netcoreapp3.1\HelloWorld2.csproj.CoreCompileInputs.cache
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\LIDL\HelloWorld2\HelloWorld2\obj\Debug\netcoreapp3.1\HelloWorld2.dll
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\LIDL\HelloWorld2\HelloWorld2\obj\Debug\netcoreapp3.1\HelloWorld2.pdb
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\LIDL\HelloWorld2\HelloWorld2\obj\Debug\netcoreapp3.1\HelloWorld2.genruntimeconfig.cache
