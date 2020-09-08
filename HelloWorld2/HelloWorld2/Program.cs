@@ -6,38 +6,17 @@ namespace HelloWorld2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("What's your name?");
-            var name = Console.ReadLine();
-            Console.WriteLine("Hello " + name + " how old are you?");
-            var age = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Age:" + age);
-            for (var i = 0; i < age; i++){
-                Console.WriteLine("Du är en banan");
+            var words = new string[5];
 
-                while (i < 5)
-                {
-                    Console.WriteLine("Du är också en korv");
-                    break; 
-                }
-            }
-            Console.WriteLine("Are you alive? (yes or no)");
-            var alive = Console.ReadLine();
-
-            bool dead = false; 
-            if (alive == "yes")
+            for (int i = 0; i < words.Length; i++)
             {
-                dead = true;
-                Console.WriteLine("Good you are alive!!!!");
+                words[i] = Console.ReadLine();
             }
-            else if (alive == "no")
+            for (int i = words.Length - 1; i >= 0;  i--)
             {
-                dead = false;
-                Console.WriteLine("Sorry to hear that you are dead, when is your funeral?");
-            }
-            else
-            {
-                dead = false;
-                Console.WriteLine("Sorry to hear that you are dead, when is your funeral?");
+                
+                    Console.WriteLine(words[i]);
+               
             }
         }
     }
