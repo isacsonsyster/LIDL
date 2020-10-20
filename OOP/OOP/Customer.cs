@@ -10,7 +10,7 @@ namespace OOP
 
         public void Shopping()
         {
-            Console.WriteLine("(1) Pink \n (2) Yellow \n (3) Purple \n (4) Cart List \n (5) Quit Shopping");
+            Console.WriteLine("(1) Adidas \n (2) Yellow \n (3) Apple \n (4) Cart List \n (5) Quit Shopping");
         }
 
     }

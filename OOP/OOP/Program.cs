@@ -17,9 +17,9 @@ namespace OOP
                 switch (option)
                 {
                     case 1:
-                        Product pink = new Product();
-                        pink._productName = "pink";
-                        Ester._cart.Add(pink);
+                        Product adidas = new Product();
+                        adidas._productName = "adidas";
+                        Ester._cart.Add(adidas);
                         break;
                     case 2:
                         Product yellow = new Product();
@@ -27,13 +27,14 @@ namespace OOP
                         Ester._cart.Add(yellow);
                         break;
                     case 3:
-                        Product purple = new Product();
-                        purple._productName = "purple";
-                        Ester._cart.Add(purple);
+                        Product apple = new Product();
+                        apple._productName = "apple";
+                        Ester._cart.Add(apple);
                         break;
                     case 4:
                         foreach(Product item in Ester._cart)
                         {
+                            //skriver ut alla 
                             Console.WriteLine(item._productName);
                         }
                         break;
